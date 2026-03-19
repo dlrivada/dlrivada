@@ -19,48 +19,125 @@ I'm passionate about clean architecture, domain-driven design, and building fram
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### Backend
+### Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_14-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### Data & Cloud
+### Frameworks & Runtimes
+
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Sybase](https://img.shields.io/badge/Sybase-333?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### Cloud, DevOps & Tools
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### BI, Data & Reporting
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square&logo=qlik&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-333?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-333?style=flat-square)
+![Big Data](https://img.shields.io/badge/Big_Data-333?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### CRM & Enterprise
+
+![Dynamics CRM](https://img.shields.io/badge/Dynamics_CRM-002050?style=flat-square&logo=microsoft&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Oracle Financials](https://img.shields.io/badge/Oracle_Financials-F80000?style=flat-square&logo=oracle&logoColor=white)
+![CRM Onyx](https://img.shields.io/badge/CRM_Onyx-333?style=flat-square)
+![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Protocols & Integration
+
+![REST](https://img.shields.io/badge/REST-333?style=flat-square)
+![SOAP](https://img.shields.io/badge/SOAP-333?style=flat-square)
+![LDAP](https://img.shields.io/badge/LDAP-333?style=flat-square)
+![COM+](https://img.shields.io/badge/COM+-333?style=flat-square)
+![XML](https://img.shields.io/badge/XML-333?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-333?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### Networking
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![LAN](https://img.shields.io/badge/LAN_/_WAN-333?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
 </tr>
 </table>
 
-### Practices & Patterns
+### Architecture & Practices
 
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-333?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS/ES-333?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS_/_Event_Sourcing-333?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333?style=flat-square)
 ![ROP](https://img.shields.io/badge/Railway_Oriented_Programming-333?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-333?style=flat-square)
 ![TDD](https://img.shields.io/badge/TDD-333?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-333?style=flat-square)
+![SOA](https://img.shields.io/badge/SOA-333?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-333?style=flat-square)
+![UML](https://img.shields.io/badge/UML-333?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile_/_Scrum-333?style=flat-square)
 
 ---
 
