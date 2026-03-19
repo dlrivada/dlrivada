@@ -31,6 +31,7 @@ I'm passionate about clean architecture, domain-driven design, and building fram
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
@@ -59,6 +60,7 @@ I'm passionate about clean architecture, domain-driven design, and building fram
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Sybase](https://img.shields.io/badge/Sybase-333?style=flat-square)
+![Progress 4GL](https://img.shields.io/badge/Progress_4GL_/_OpenEdge-333?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
@@ -120,6 +122,40 @@ I'm passionate about clean architecture, domain-driven design, and building fram
 ![LAN](https://img.shields.io/badge/LAN_/_WAN-333?style=flat-square)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Messaging & Infrastructure
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-333?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
+![Marten](https://img.shields.io/badge/Marten-333?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Polly](https://img.shields.io/badge/Polly-333?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### Legacy & Specialized
+
+![Pascal](https://img.shields.io/badge/Pascal-333?style=flat-square)
+![COBOL](https://img.shields.io/badge/COBOL-333?style=flat-square)
+![Clipper](https://img.shields.io/badge/Clipper-333?style=flat-square)
+![Oberon](https://img.shields.io/badge/Oberon-333?style=flat-square)
+![ASM x86](https://img.shields.io/badge/ASM_x86-333?style=flat-square)
+![ASM Z80](https://img.shields.io/badge/ASM_Z80-333?style=flat-square)
+![GW-BASIC](https://img.shields.io/badge/GW--BASIC-333?style=flat-square)
+![BASIC](https://img.shields.io/badge/BASIC-333?style=flat-square)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![VR](https://img.shields.io/badge/Virtual_Reality-333?style=flat-square)
 
 </td>
 </tr>
