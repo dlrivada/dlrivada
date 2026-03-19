@@ -128,18 +128,50 @@ I'm passionate about clean architecture, domain-driven design, and building fram
 <tr>
 <td valign="top" width="50%">
 
-### Messaging & Infrastructure
+### Messaging & Transports
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-333?style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=flat-square&logo=dapr&logoColor=white)
+![Apache Pulsar](https://img.shields.io/badge/Pulsar-188FFF?style=flat-square&logo=apachepulsar&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### Caching & Data
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-333?style=flat-square)
+![Dragonfly](https://img.shields.io/badge/Dragonfly-333?style=flat-square)
+![Garnet](https://img.shields.io/badge/Garnet-333?style=flat-square)
+![KeyDB](https://img.shields.io/badge/KeyDB-333?style=flat-square)
+![Memcached](https://img.shields.io/badge/Memcached-333?style=flat-square)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-333?style=flat-square)
 ![Marten](https://img.shields.io/badge/Marten-333?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Observability, Resilience & Cloud
+
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Polly](https://img.shields.io/badge/Polly-333?style=flat-square)
+![Hangfire](https://img.shields.io/badge/Hangfire-333?style=flat-square)
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-333?style=flat-square)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-333?style=flat-square)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
