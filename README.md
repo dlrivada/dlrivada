@@ -9,11 +9,11 @@
 
 ## About Me
 
-Software Architect and Tech Leader with over 30 years of experience designing, building and leading technology projects. I've been fascinated by computers since I was a kid, and that early curiosity has never faded — it has only grown into a drive to stay at the cutting edge of technology.
+Software Architect and Tech Leader with over 30 years of experience designing, building and leading technology projects. I wrote my first lines of code at age 10, and that spark never went out — three decades later I still get the same thrill from solving hard problems and pushing the boundaries of what software can do.
 
-Throughout my career I've had the privilege of working with industry-leading companies like Microsoft, Telefonica, Orange, BNP Paribas and Mediaset, always embracing new challenges and learning along the way. Currently at [Alicunde](https://www.alicunde.com/), where I lead development teams and design scalable architectures for international clients.
+I'm driven by an insatiable curiosity for technology and a genuine desire to make things better. That energy has taken me through companies like Microsoft, Telefonica, Orange, BNP Paribas and Mediaset, where I've always sought the most challenging projects and the sharpest teams. Every new stack, every new paradigm is an opportunity to grow — and I've never stopped learning.
 
-I'm passionate about clean architecture, domain-driven design, and building frameworks that help developers write resilient software. In my spare time, I maintain **Encina**, an open-source .NET framework for Railway Oriented Programming.
+Currently at [Alicunde](https://www.alicunde.com/), leading development teams and designing scalable architectures for international clients. I'm passionate about clean architecture, domain-driven design, and building frameworks that help developers write resilient software. In my spare time, I maintain **Encina**, an open-source .NET framework for Railway Oriented Programming.
 
 ---
 
